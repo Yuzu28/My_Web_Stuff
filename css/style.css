@@ -988,6 +988,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   #header .container {
     max-width: 100%;
   }
+  /* #personal .container {
+    max-width: 100%;
+  } */
 
   .nav-menu a {
     padding: 8px 4px;
