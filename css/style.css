@@ -740,10 +740,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
   padding: 0;
 }
+
+/* resposive for  separtion of projects. */
 .work_item {
   position: relative;
   padding: 15px;
-  margin-bottom: 80px;
+  margin-bottom: 250px;
 }
 .gifImg {
   min-height: 240px;
@@ -822,6 +824,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 
+.marvel {
+  height: 1% ;
+}
+
+.marvel img {
+  height: 260px ;
+}
+
+.anime {
+  height: 1% ;
+}
+
+.anime img {
+  height: 260px ;
+}
 
 
 
