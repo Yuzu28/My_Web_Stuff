@@ -745,7 +745,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .work_item {
   position: relative;
   padding: 15px;
-  margin-bottom: 250px !important;
+  margin-bottom: 80px !important;
 }
 .gifImg {
   min-height: 240px;
