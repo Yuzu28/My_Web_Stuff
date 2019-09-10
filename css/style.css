@@ -632,7 +632,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #personal img{
   margin-top: 3%;
   margin-left: 10%;
-  border: 6px solid orange;
+  border: 6px solid black;
 }
 
 
@@ -823,22 +823,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding:10px; */
 }
 
-
-.marvel {
-  height: 1% !important;
-}
-
-.marvel img {
-  height: 260px !important ;
-}
-
-.anime {
-  height: 1% !important ;
-}
-
-.anime img {
-  height: 260px !important ;
-}
 
 
 
