@@ -745,7 +745,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .work_item {
   position: relative;
   padding: 15px;
-  margin-bottom: 250px;
+  margin-bottom: 250px !important;
 }
 .gifImg {
   min-height: 240px;
@@ -825,19 +825,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 .marvel {
-  height: 1% ;
+  height: 1% !important;
 }
 
 .marvel img {
-  height: 260px ;
+  height: 260px !important ;
 }
 
 .anime {
-  height: 1% ;
+  height: 1% !important ;
 }
 
 .anime img {
-  height: 260px ;
+  height: 260px !important ;
 }
 
 
